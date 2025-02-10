@@ -1,0 +1,1 @@
+INSERT INTO "Account" (username, password) VALUES ('savita', 'savita');
